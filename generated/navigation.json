@@ -747,6 +747,17 @@
       ]
     },
     {
+      "title": "Tutorials",
+      "tooltop": "End-to-end tutorials for learning Angular concepts and patterns.",
+      "children": [
+        {
+          "url": "guide/router-tutorial",
+          "title": "Using Angular Routes in a Single-page Application",
+          "tooltip": "A tutorial that covers many patterns associated with Angular routing."
+        }
+      ]
+    },
+    {
       "title": "Release Information",
       "tooltip": "Angular release practices, updating, and upgrading.",
       "children": [
@@ -1054,19 +1065,19 @@
       "includePrerelease": false
     },
     "loose": false,
-    "raw": "10.0.0-next.4",
+    "raw": "10.0.0-next.5",
     "major": 10,
     "minor": 0,
     "patch": 0,
     "prerelease": [
       "local"
     ],
-    "build": "sha.12fcc7cafe",
+    "build": "sha.ecffc3557f",
     "version": "10.0.0-local",
     "codeName": "snapshot",
     "isSnapshot": true,
-    "full": "10.0.0-local+sha.12fcc7cafe",
+    "full": "10.0.0-local+sha.ecffc3557f",
     "branch": "master",
-    "commitSHA": "12fcc7cafe8bf6dd33416847327891b581281774"
+    "commitSHA": "ecffc3557fe1bff9718c01277498e877ca44588d"
   }
 }
